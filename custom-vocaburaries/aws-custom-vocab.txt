@@ -1,0 +1,7 @@
+Phrase	SoundsLike	IPA	DisplayAs
+S-three	es-three		S3
+es-three	es-three		S3
+es-tree	es-tree		S3
+E-C-two	ee-see-two		EC2
+E-see-two	ee-see-two		EC2
+ee-see-two	ee-see-two		EC2
